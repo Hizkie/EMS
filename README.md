@@ -36,7 +36,8 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* Code Igniter [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* CodeIgniter [CodeIgniter](https://codeigniter.com/) - The web framework used
+* MySql [MySql](https://www.mysql.com/) - MySql 
 
 
 ## Author
