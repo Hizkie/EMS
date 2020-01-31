@@ -4,7 +4,7 @@ Equipment Management System
 
 ## Getting Started
 
-EMS is an informatio system used to monitor and track equipment states, restrictions and PM schedules in real time. 
+EMS is an information system used to monitor and track equipment states, restrictions and PM schedules in real time. 
 ### Prerequisites
 
 PHP 5.6
